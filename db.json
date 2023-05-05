@@ -1,0 +1,203 @@
+{
+  "innovations": [
+    {
+      "innovation_image": "https://gshiftlabs.com/wp-content/uploads/2022/07/The-Difference-Between-Internet-And-World-Wide-Web-%E2%80%94-And-Why-It-Matters-1.jpg",
+      "innovation_title": "World Wide Web",
+      "innovator_name": "Tim Berners-Lee",
+      "innovation_story": [
+        "The development of the World Wide Web was begun in 1989 by Tim Berners-Lee and his colleagues at CERN",
+        "an international scientific organization based in Geneva, Switzerland.",
+        "They created a protocol, HyperText Transfer Protocol (HTTP), which standardized communication between servers and clients.",
+        "The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United",
+        "States by Marc Andreessen and others at the National Center for Supercomputing Applications at the University of Illinois and was",
+        "released in September 1993. Mosaic allowed people using the Web to use the same sort of “point-and-click” graphical manipulations",
+        "that had been available in personal computers for some years. In April 1994 Andreessen cofounded Netscape Communications Corporation,",
+        "whose Netscape Navigator became the dominant Web browser soon after its release in December 1994. BookLink Technologies’ InternetWorks,",
+        "the first browser with tabs, in which a user could visit another Web site without opening an entirely new window, debuted that same year.",
+        "By the mid-1990s the World Wide Web had millions of active users."
+      ],
+      "source": "https://www.britannica.com/topic/World-Wide-Web",
+      "innovation_year": 1989,
+      "id": 1
+    },
+    {
+      "innovation_image": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-pro-max-colors.png",
+      "innovation_title": "iPhone",
+      "innovator_name": "Apple Inc.",
+      "innovation_story": [
+        " Although the touchscreen and the appearance of the iPhone dominated the headlines",
+        "the focus on getting the user experience right was possibly the most significant change.",
+        "Traditionally, brands were all about having the best hardware specifications, with software taking a back seat.",
+        "The iPhone would change this by putting the user experience at the heart of everything.",
+        "The simplicity of the iPhone was arguably the biggest game-changer for the industry. ",
+        "By removing complex menu systems, trackballs, keyboards, or the need for a stylus",
+        "the iPhone was designed to make it easier for anyone to get the most out of the device without needing an instruction manual.",
+        "Steve Jobs took this to another level by insisting that every interaction needed to be completed in three intuitive clicks or less.",
+        "If it didn't, the team would need to revisit the UX.",
+        "This mindset change would impact the entire industry as competitors were forced to admit that a new device with a higher technical specification",
+        "would not appeal to customers if it were accompanied by clunky software. Simplifying everything and transforming the user experience through software",
+        "would pave the way for Apple's device ecosystem, enhancing the UX with seamless integration.",
+        "The result would increase loyalty and prevent Apple fans from leaving the convenience and safety of its walled garden."
+      ],
+      "source": "https://www.scientificamerican.com/article/understanding-the-real-innovation-behind-the-iphone/",
+      "innovation_year": 2007,
+      "id": 2
+    },
+    {
+      "innovation_image": "https://news.microsoft.com/wp-content/uploads/prod/sites/430/2021/06/1.jpg",
+      "innovation_title": "Microsoft Windows",
+      "innovator_name": "Microsoft Corporation",
+      "innovation_story": [
+        "Microsoft Windows, also called Windows and Windows OS, computer operating system (OS) developed by Microsoft Corporation to run personal computers (PCs).",
+        "Featuring the first graphical user interface (GUI) for IBM-compatible PCs, the Windows OS soon dominated the PC market. Approximately 90 percent of PCs run some version of Windows.",
+        "The first version of Windows, released in 1985, was simply a GUI offered as an extension of Microsoft’s existing disk operating system, or MS-DOS.",
+        "Based in part on licensed concepts that Apple Inc. had used for its Macintosh System Software, Windows for the first time allowed DOS users to visually navigate a virtual desktop,",
+        "opening graphical “windows” displaying the contents of electronic folders and files with the click of a mouse button, rather than typing commands and directory paths at a text prompt.",
+        "The first version of Windows, released in 1985, was simply a GUI offered as an extension of Microsoft’s existing disk operating system, or MS-DOS. Based in part on licensed concepts that Apple Inc.",
+        "had used for its Macintosh System Software, Windows for the first time allowed DOS users to visually navigate a virtual desktop, opening graphical “windows” displaying the contents of electronic folders and files with the click of a mouse button, rather than typing commands and directory paths at a text prompt."
+      ],
+      "source": "https://www.britannica.com/technology/Microsoft-Windows",
+      "innovation_year": 1985,
+      "id": 3
+    },
+    {
+      "innovation_image": "https://techcrunch.com/wp-content/uploads/2015/10/google-search.png",
+      "innovation_title": "Google Search",
+      "innovator_name": "Larry Page and Sergey Brin",
+      "innovation_story": [
+        " Google, in full Google LLC formerly Google Inc. (1998–2017), American search engine company",
+        "founded in 1998 by Sergey Brin and Larry Page, that is a subsidiary of the holding company Alphabet Inc.",
+        "More than 70 percent of worldwide online search requests are handled by Google, placing it at the heart of most Internet users’ experience.",
+        "It is one of the world’s most prominent brands. Its headquarters are in Mountain View, California.",
+        "Google began as an online search firm, but it now offers more than 50 Internet services and products",
+        "from e-mail and online document creation to software for mobile phones and tablet computers. In addition",
+        "its 2012 acquisition of Motorola Mobility put it in the position to sell hardware in the form of mobile phones.",
+        "Google’s broad product portfolio and size make it one of the top four influential companies in the high-tech marketplace",
+        "along with Apple, IBM, and Microsoft. Despite this myriad of products, its original search tool remains the core of its success.",
+        "In 2016 Alphabet earned nearly all of its revenue from Google advertising based on users’ search requests."
+      ],
+      "source": "https://www.britannica.com/topic/Google-Inc/Other-services ",
+      "innovation_year": 1997,
+      "id": 4
+    },
+    {
+      "innovation_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png",
+      "innovation_title": "Amazon Web Services",
+      "innovator_name": "Amazon.com, Inc.",
+      "innovation_story": [
+        "AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS),",
+        "platform-as-a-service (PaaS) and packaged-software-as-a-service (SaaS) offerings. AWS services can offer an organization tools such as compute power, database storage and content delivery services.",
+        "Amazon.com Web Services launched its first web services in 2002 from the internal infrastructure that Amazon.com built to handle its online retail operations. In 2006, it began offering its defining IaaS services.",
+        "AWS was one of the first companies to introduce a pay-as-you-go cloud computing model that scales to provide users with compute, storage or throughput as needed.",
+        "AWS offers many different tools and solutions for enterprises and software developers that can be used in data centers in up to 190 countries. Groups such as government agencies, education institutions, non-profits and private organizations can use AWS services."
+      ],
+      "source": "https://www.techtarget.com/searchaws/definition/Amazon-Web-Services",
+      "innovation_year": 2006,
+      "id": 5
+    },
+    {
+      "innovation_image": "https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg",
+      "innovation_title": "Linux",
+      "innovator_name": "Linus Torvalds",
+      "innovation_story": [
+        "Linux, computer operating system created in the early 1990s by Finnish software engineer Linus Torvalds",
+        "and the Free Software Foundation (FSF).",
+        "While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX",
+        "a UNIX operating system. In 1991 he released version 0.02; Version 1.0 of the Linux kernel, the core of the operating system",
+        " was released in 1994. About the same time, American software developer Richard Stallman and the FSF made efforts to create",
+        "an open-source UNIX-like operating system called GNU. In contrast to Torvalds, Stallman and the FSF started by creating utilities",
+        "for the operating system first. These utilities were then added to the Linux kernel to create a complete system called GNU/Linux",
+        "or, less precisely, just Linux.",
+        "Linux grew throughout the 1990s because of the efforts of hobbyist developers.",
+        "Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable",
+        "system that rarely crashes. Combined with Apache, an open-source Web server, Linux accounts for most of the servers used on the Internet.",
+        "Because it is open-source, and thus modifiable for different uses, Linux is popular for systems as diverse as cellular telephones and supercomputers.",
+        "Android, Google’s operating system for mobile devices, has at its core a modified Linux kernel, and Chrome OS, Google’s operating system",
+        "that uses the Chrome browser, is also Linux-based. The addition of user-friendly desktop environments, office suites, Web browsers",
+        "and even games helped to increase Linux’s popularity and make it more suitable for home and office desktops.",
+        "New distributions (packages of Linux software) have been created since the 1990s. Some of the more well-known distributions include MX Linux",
+        "Manjaro, Linux Mint, and Ubuntu. "
+      ],
+      "source": " https://www.britannica.com/technology/system-software",
+      "innovation_year": 1991,
+      "id": 6
+    },
+    {
+      "innovation_image": "https://contentstatic.techgig.com/photo/93158297/Oracle-to-discontinue-extended-support-for-Java-7.jpg",
+      "innovation_title": "Java",
+      "innovator_name": "James Gosling",
+      "innovation_story": [
+        "Before development of the java language world relies on C++, which incorporated several oops concepts and looked perfect at that time.",
+        "But then it was realized that C++ can be made to program only a specific set of devices, as it is platform dependent. This led James towards the motivation of",
+        "creating a platform independent language which apart from computer could be used to program other devices as well. James with some of his colleagues started working",
+        "towards the development of this language in the year 1991. It took 18 months for James to develop the first working version of this language. It was initially named as 'OAK'",
+        "and later in the year of 1995 it was forever named as 'JAVA'. James has invented the authentic layout of java and also the compiler and virtual machine. Java as we all know is a language with the widest scope,",
+        "which has changed internet forever with its amazing features and simplicity. We owe the development of this boon none other thanJames Gosling."
+      ],
+      "source": "https://www.javatpoint.com/james-gosling-father-of-java",
+      "innovation_year": 1995,
+      "id": 7
+    },
+    {
+      "innovation_image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/f6812228-7008-4f30-9cad-1e15731bb086/bvlatuR/std/2880x1620/roadster-interior-desktop?quality=auto-medium&format=auto",
+      "innovation_title": "Tesla Roadster",
+      "innovator_name": "Elon Musk",
+      "innovation_story": [
+        "Tesla released it first car, the Roadster, in 2008.  This showed the world their new battery technology and powertrain.",
+        "From there on tesla went on to introduce various vehicles like the Model S, Model X, Model 3, Semi and Cybertruck.",
+        "But none of this was their greatest achievement. Electric vehicles existed before them, so did self-driving cars which they are now famous.",
+        "What tesla did differently was collect analytics data from all their cars on the roads. This data is then pushed to their servers for analysis.",
+        "This was Tesla’s coup de grace. This enabled them to detect issues with their vehicles, often before the owners did and to also make their vehicles",
+        "better by pushing over the air updates. The vehicles literally got better as time went on.",
+        "In October 2014, Tesla offered their users an optional “tech package”. This included sensors and cameras to assist drivers",
+        "with avoiding accidents. They then analyzed the data coming off these sensors. The product of this was the self-driving update pushed",
+        "to the cars in October 2015."
+      ],
+      "source": "https://d3.harvard.edu/platform-digit/submission/tesla-a-data-driven-future/ ",
+      "innovation_year": 2008,
+      "id": 8
+    },
+    {
+      "innovation_image": "https://media.istockphoto.com/id/1324380506/photo/people-with-vr-grasses-playing-virtual-reality-game-future-digital-technology-and-3d-virtual.jpg?s=612x612&w=0&k=20&c=I_9fnEi1hNHFwy0qe8g7V1ZQJmgyKEDOSDJonScTSMU=",
+      "innovation_title": "Virtual Reality Headset",
+      "innovator_name": "Palmer Luckey",
+      "innovation_story": [
+        "Virtual Reality (VR) is a computer-generated environment with scenes and objects that appear to be real,",
+        "making the user feel they are immersed in their surroundings. This environment is perceived through a device",
+        "known as a Virtual Reality headset or helmet. VR allows us to immerse ourselves in video games as if we were one of the characters",
+        "learn how to perform heart surgery or improve the quality of sports training to maximise performance.",
+        "Although this may seem extremely futuristic, its origins are not as recent as we might think. In fact, many people consider that",
+        "one of the first Virtual Reality devices was called Sensorama, a machine with a built-in seat that played 3D movies",
+        "gave off odours and generated vibrations to make the experience as vivid as possible. The invention dates back as far as the mid-1950s.",
+        "Subsequent technological and software developments over the following years brought with them a progressive evolution",
+        "both in devices and in interface design."
+      ],
+      "source": "https://www.iberdrola.com/innovation/virtual-reality ",
+      "innovation_year": 2012,
+      "id": 9
+    },
+    {
+      "innovation_image": "https://s.abcnews.com/images/Technology/facebook-file-rt-ml-211004_1633363717419_hpMain_16x9_992.jpg",
+      "innovation_title": "Facebook",
+      "innovator_name": "Mark Zuckerberg",
+      "innovation_story": [
+        "Facebook, American online social network service that is part of the company Meta Platforms.",
+        "Facebook was founded in 2004 by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes, all of whom",
+        "were students at Harvard University. Facebook became the largest social network in the world,",
+        "with nearly three billion users as of 2021, and about half that number were using Facebook every day.",
+        "The company’s headquarters are in Menlo Park, California.\n\nAccess to Facebook is free of charge,",
+        "and the company earns most of its money from advertisements on the website. New users can create profiles, upload photos,",
+        "join a preexisting group, and start new groups. The site has many components, including Timeline,",
+        "a space on each user’s profile page where users can post their content and friends can post messages;",
+        "Status, which enables users to alert friends to their current location or situation; and News Feed,",
+        "which informs users of changes to their friends’ profiles and status. Users can chat with each other",
+        "and send each other private messages. Users can signal their approval of content on Facebook with the Like button,",
+        "a feature that also appears on many other websites. Other services that are part of Meta Platforms are Instagram,",
+        "a photo- and video-sharing social network; Messenger, an instant-messaging application; and WhatsApp, a text-message and VoIP"
+      ],
+      "source": "https://www.britannica.com/topic/Facebook",
+      "innovation_year": "2004",
+      "id": 10
+    }
+  ]
+}
